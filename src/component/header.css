@@ -1,0 +1,187 @@
+.item-container{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    margin-left:30px ;
+    margin-right: 30px;
+    
+    justify-content: space-between;
+}
+
+.navbar-item{
+    text-decoration: none;
+    /* padding-left:20px ; */
+    /* margin-right: 40px; */
+    margin-left: 40px;
+    color: rgba(66, 61, 61, 0.856);
+}
+
+.button{
+    padding-left: 30px;
+
+}
+.navbar{
+    margin-right: 30px;
+    text-decoration: none;
+    color: rgb(49, 47, 47);
+}
+
+.sign{
+    padding: 10px;
+    color: rgb(72, 72, 78);
+    font-size: large;
+    border-radius: 30px;
+    border-color:white ;
+    
+}
+
+.container2{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    padding: 60px;
+    margin-top:30px ;
+
+}
+
+.bigger-text{
+    font-size: 60px;
+    font: 800;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0px;
+    
+}
+
+.get-btn{
+    color: rgb(238, 238, 243);
+    background-color: rgb(0, 225, 255);
+    padding: 10px;
+    border-radius: 20px;
+    border-color: wheat;
+    margin-top: 30px;
+
+}
+
+.pic{
+    height: 400px;
+    width: 400px;
+}
+
+.Toda{
+    justify-content: center;
+    background-color: rgba(140, 160, 160, 0.466);
+    padding: -80px;
+    border-radius: 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Box{
+    padding: 40px;
+    margin-left: 50vh;
+    border-radius: 20px;
+
+
+    display: flex;
+    width: 700px;
+    height: 30px;
+    background-color: brown;
+    justify-content: space-between;
+}
+.shorten{
+    padding: 20px;
+    width: 70vh;
+    border-radius: 20px;
+    border: 2px solid navy;
+    
+    border-style: none;
+}
+.short{
+    /* padding: 20px; */
+    padding: 20px;
+    /* padding-bottom: 30px; */
+    font-size: larger;
+        
+    width: 20vh;
+    border-radius: 20px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: aqua;
+}
+
+.Advance{
+    margin-left:80vh ;
+    margin-top: 80px;
+    text-justify: newspaper;
+}
+.Boox{
+    display: flex;
+    margin-left: 40px;
+
+}
+.Brand{
+    /* width: 40px;
+    height: 60px;
+    background-color: aquamarine; */
+    width: 50vh;
+    height: 30vh;
+    margin-left: 20px;
+    padding: 30px;
+    background-color: rgb(247, 255, 255);
+}
+.grey{
+    color: grey;
+}
+.classMon{
+    /* margin-left: 70vh; */
+    background-color: brown;
+    width: 215vh;
+    height: 40vh;
+}
+.stat{
+    margin-left: 70vh;
+    padding-top: 40px;
+}
+.button1{
+    margin-left: 80vh;
+    padding: 15px;
+    border: 0px solid none;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 30px;
+    background-color: aquamarine;
+}
+
+
+.buttom{
+    display: flex;
+    width: 215vh;
+    height: 40vh;
+    margin-right: 20px;
+    background-color: black;
+    /* padding: 30px; */
+    justify-content: space-evenly;
+}
+
+.features{
+    margin-left: 40px;
+    color: white;
+}
+.headx{
+    color: white;
+}
+
+.heade{
+    display: flex;
+    margin: 0;
+    width: 215vh;
+    height: 40px;
+    margin-right: 20px;
+    background-color: black;
+    color: aliceblue;
+    /* padding: 30px; */
+    justify-content: center;
+}
